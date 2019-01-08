@@ -1,0 +1,20 @@
+
+.toolTip {
+	position:absolute;
+	width:100px;
+	height:80px;
+	padding:5px;
+	font-size:12px;
+	font-family: Times New Roman;
+	color:black;
+	text-align:center;
+	background: lightgrey;
+	border:2px;
+	border-radius:5px;
+}
+
+.axisText {
+	font-family: Times New Roman;
+	font-weight:bold;
+	font-size:20px;
+}
